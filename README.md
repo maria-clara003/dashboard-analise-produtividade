@@ -60,7 +60,7 @@ O dashboard possui filtros por operador e mês, permitindo analisar os indicador
 🖼️ Visualização do dashboard
 
 [Dashboard de Análise de Produtividade]
-(images/dashboard.png)
+
 
 📁 Estrutura do repositório
 
