@@ -60,8 +60,7 @@ O dashboard possui filtros por operador e mês, permitindo analisar os indicador
 🖼️ Visualização do dashboard
 
 [Dashboard de Análise de Produtividade]
-
-
+<img width="1413" height="799" alt="image" src="https://github.com/user-attachments/assets/bedddf58-659f-4921-84f5-5317c49206d7" />
 📁 Estrutura do repositório
 
 - `dashboard.pbix`: arquivo do relatório desenvolvido no Power BI.
