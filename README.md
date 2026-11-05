@@ -4,8 +4,6 @@ Dashboard de Análise de Produtividade
 
 Dashboard desenvolvido no Power BI para acompanhar indicadores de produtividade e desempenho operacional, considerando o volume de produção, a qualidade dos resultados e a utilização do tempo de trabalho.
 
-O projeto foi realizado como atividade prática durante um treinamento de análise de dados, com aplicação de conceitos de tratamento de dados, criação de medidas em DAX e visualização de indicadores.
-
 🎯 Objetivos
 
 - Monitorar o volume de produção aprovada e rejeitada.
@@ -64,8 +62,16 @@ O dashboard possui filtros por operador e mês, permitindo analisar os indicador
 📁 Estrutura do repositório
 
 - `Dashboard-analise-producao.pbix`: arquivo do relatório desenvolvido no Power BI.
-- `Produção.xlsx`: base de dados utilizada na análise, se autorizada para publicação.
+- `Produção.xlsx`: base de dados utilizada na análise.
 - `images/Dashboard.png`: imagem ilustrativa do dashboard.
+
+🔍 Principais conclusões
+
+- Volume: foram aprovadas 3.084.251 unidades no ano, contra 21.076 rejeitadas.
+- Qualidade: a taxa de qualidade foi de 99,32%, ou seja, menos de 1% da produção foi rejeitada.
+- Disponibilidade: ficou em 77,69%. Foram 30.956 horas produtivas contra 8.890 horas paradas, cerca de 22% do tempo trabalhado.
+- Sazonalidade: o pico foi em julho (318 mil aprovadas) e o menor volume em outubro (169 mil), uma queda de cerca de 47% entre os dois meses.
+- Ponto de atenção: a produção caiu de 262 mil em agosto para 172 mil em setembro (-34%) e só começou a reagir em novembro (243 mil).
 
 📚 Contexto do projeto
 
