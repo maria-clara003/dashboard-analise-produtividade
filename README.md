@@ -59,6 +59,8 @@ O dashboard possui filtros por operador e mês, permitindo analisar os indicador
 
 <img width="1398" height="777" alt="Dashboard" src="https://github.com/user-attachments/assets/c17b0686-82ce-47f9-9be7-802cdf41cd49" />
 
+📄 [Ver o dashboard em PDF](Dashboard-producao.pdf)
+
 📁 Estrutura do repositório
 
 - `Dashboard-analise-producao.pbix`: arquivo do relatório desenvolvido no Power BI.
