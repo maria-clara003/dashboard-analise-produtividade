@@ -2,7 +2,9 @@ Dashboard de Análise de Produtividade
 
 📌 Sobre o projeto
 
-Dashboard desenvolvido no Power BI para acompanhar indicadores de produtividade e desempenho operacional, considerando o volume de produção, a qualidade dos resultados e a utilização do tempo de trabalho.
+Dashboard em Power BI para acompanhar indicadores de produtividade operacional: volume de produção, qualidade dos resultados e aproveitamento do tempo de trabalho.
+
+Desenvolvido no Intensivão de Power BI (Hashtag Treinamentos), com tratamento de dados no Power Query, medidas em DAX e visualização dos indicadores.
 
 🎯 Objetivos
 
